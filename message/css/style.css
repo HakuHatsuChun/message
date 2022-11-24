@@ -1,0 +1,49 @@
+body{
+    margin: auto;
+
+}
+
+h1{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.a{
+    font-size: 8px;
+}
+
+#output{
+    width: 1080px;
+    color: white;
+    background-color: rgb(9, 81, 14);
+    border: solid 9px rgb(172, 101, 2);
+}
+
+.kaki{
+    position: absolute;
+    top: 400px;
+    left: 1000px;
+}
+.siro{
+    width: 40%;
+}
+
+.cleaner{
+    width: 20%;
+}
+
+.keshi{
+    position: absolute;
+    top: 420px;
+    left: 900px;
+}
+.msg{
+    margin-right: 20px;
+}
+
+#text{
+    width: 500px;
+    height: 50px;
+    appearance: none;
+    border-radius: 3px;
+}
